@@ -1,0 +1,1 @@
+This is my personal portfolio in making. I am currently studying how to code.
